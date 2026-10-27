@@ -1,6 +1,6 @@
 # Build a Real-Time BI Dashboard with Interactive Warehouses
 
-[![Developer Guide](https://img.shields.io/badge/Snowflake-Guide-29B5E8?logo=snowflake&logoColor=white)](https://www.snowflake.com/en/developers/guides/build-real-time-bi-dashboard-interactive-warehouses/)
+[![Developer Guide](https://img.shields.io/badge/Developer-Guide-29B5E8?logo=snowflake&logoColor=white)](https://www.snowflake.com/en/developers/guides/build-real-time-bi-dashboard-interactive-warehouses/)
 
 A complete, self-contained demo that generates live synthetic e-commerce orders inside Snowflake and serves a continuously updating BI dashboard. No Kafka, no external message bus, no infrastructure outside Snowflake.
 
